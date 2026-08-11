@@ -1,6 +1,6 @@
 # 🏏 India vs England– T20 World Cup 2026 Dashboard
 
-An interactive cricket analytics dashboard created in **Microsoft Excel** to analyze India vs New Zealand T20 World Cup 2026 match performance.
+An interactive cricket analytics dashboard created in **Microsoft Excel** to analyze India vs England T20 World Cup 2026 match performance.
 
 ---
 
@@ -12,7 +12,7 @@ An interactive cricket analytics dashboard created in **Microsoft Excel** to ana
 
 ## 🎯 Project Overview
 
-This project presents an interactive **India vs New Zealand T20 World Cup 2026 Cricket Dashboard** built using Microsoft Excel.
+This project presents an interactive **India vs England T20 World Cup 2026 Cricket Dashboard** built using Microsoft Excel.
 
 The dashboard transforms cricket match data into meaningful visual insights covering batting, bowling, boundaries, wickets, partnerships, and overall team performance.
 
@@ -35,7 +35,7 @@ The dashboard transforms cricket match data into meaningful visual insights cove
 - 🤝 Partnership Analysis
 - 📝 Match Summary
 - 👤 Player Performance
-- 🇮🇳 India vs 🇳🇿 New Zealand Comparison
+- India vs  England Comparison
 
 ---
 
@@ -104,7 +104,7 @@ The dashboard follows a modern sports analytics theme.
 
 **Adarsh Nadda**
 
-Aspiring Data Analyst
+ Data Analyst
 
 ### Skills
 - Excel
