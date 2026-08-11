@@ -1,4 +1,4 @@
-# 🏏 India vs New Zealand – T20 World Cup 2026 Dashboard
+# 🏏 India vs England– T20 World Cup 2026 Dashboard
 
 An interactive cricket analytics dashboard created in **Microsoft Excel** to analyze India vs New Zealand T20 World Cup 2026 match performance.
 
